@@ -1,0 +1,13 @@
+N|1013
+C|1002|Atharva|20|M|101|2
+C|1003|Pranit|19|M|101|3
+C|1004|Neel|20|M|101|4
+C|1005|Shreeyansh|19|M|101|5
+C|1006|Aryan|20|M|101|6
+C|1007|Aditya|19|M|101|7
+C|1008|Omraj|19|M|101|8
+C|1009|ishan|19|M|101|9
+C|1010|Suraj|20|M|101|10
+C|1011|Kshiteej|19|M|101|1
+W|1012|Nitish|19|M|101
+X|1001|Kshiteej|19|M|101|1
